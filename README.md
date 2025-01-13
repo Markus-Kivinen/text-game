@@ -1,3 +1,3 @@
 # text-game
-Simple text based adventure game  
-Try it at https://maketti-spaketti.github.io/text-game/
+Simple text based adventure game with complex engine. 
+Try it at https://Markus-Kivinen.github.io/text-game/
